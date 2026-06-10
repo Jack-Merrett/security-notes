@@ -37,5 +37,45 @@ I document what I learn so that:
 4. Employers can see my growth over time.
 
 ---
+Initial Folder Strcuture:
+security-notes/
+│
+├── README.md
+│
+├── aws/
+│   ├── iam.md
+│   ├── cloudtrail.md
+│   ├── guardduty.md
+│   └── security-groups.md
+│
+├── networking/
+│   ├── osi-model.md
+│   ├── tcp-vs-udp.md
+│   └── subnetting.md
+│
+├── linux/
+│   ├── commands.md
+│   ├── permissions.md
+│   └── systemd.md
+│
+├── security-plus/
+│   ├── domain1.md
+│   ├── domain2.md
+│   └── study-notes.md
+│
+├── wazuh/
+│   ├── installation.md
+│   ├── detection-rules.md
+│   └── threat-hunting.md
+│
+├── terraform/
+│   ├── basics.md
+│   ├── state-files.md
+│   └── security-best-practices.md
+│
+└── project-journal/
+    ├── 2026-06-10.md
+    ├── 2026-06-17.md
+    └── 2026-06-24.md
 
 Last Updated: June 2026
